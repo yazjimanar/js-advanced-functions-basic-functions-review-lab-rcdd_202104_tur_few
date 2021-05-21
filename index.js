@@ -1,4 +1,4 @@
-function saturdayFun(act ='roller-skate!'  ){
-return `'This Saturday, I want to  ${act}'`;
+function saturdayFun(activity ='roller-skate!'  ){
+return `'This Saturday, I want to  ${activity}!'`;
 
 }
